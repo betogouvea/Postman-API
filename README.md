@@ -1,4 +1,4 @@
-### 🧪 Teste Técnico QA Clinicorp Solutions
+### 🧪 Teste Técnico
 
 Este repositório contém os testes automatizados de API utilizando **Postman Web**.
 
